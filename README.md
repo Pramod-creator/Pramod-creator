@@ -61,7 +61,7 @@ My experience spans full-stack web systems and desktop applications, with a focu
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramod_Dilshan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramod-dilshan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramod_Dilshan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Pramod-Dilshan)  
 [![Facebook](https://img.shields.io/badge/Facebook-Pramod_Dilshan-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/pramod.dilshan)
 
 ---
